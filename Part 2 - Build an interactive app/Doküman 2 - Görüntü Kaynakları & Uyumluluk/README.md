@@ -182,6 +182,7 @@ android:src="@drawable/empty_dice"
 ![image](https://user-images.githubusercontent.com/70329389/140613372-7aae666a-9505-40dc-8422-80d0b07f5973.png)
 
 Bir tasarımın içeriğinin çalışma zamanında dinamik olarak tanımlanması oldukça yaygındır; örneğin, internetten veri alan herhangi bir uygulama muhtemelen boş bir ekranla başlamalıdır. Ancak, bir uygulamayı layoutta bir tür yer tutucu veriye sahip olacak şekilde tasarlarken, ne düzenlediğinizi bilmeniz için yararlıdır. 
+
 4. **Activity_main.xml**'de **android:src** satırını kopyalayın ve ikinci bir kopya yapıştırın. "Android" kelimesini ""tools" olarak değiştirin, böylece iki özelliğiniz şöyle görünür:
 
 ```
